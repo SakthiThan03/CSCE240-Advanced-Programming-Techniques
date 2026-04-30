@@ -1,0 +1,37 @@
+4
+tf
+CSCE240 is the best class ever.
+true
+mc
+5
+How many people are cooler than you?
+a) no one
+true
+b) a couple folks
+false
+c) about half the population
+false
+d) most people
+false
+e) everyone
+false
+sa
+What is your favorite color?
+Blue... No. Yellooooooooooow!
+mc
+7
+What's your favorite dessert?
+a) sweet potato pie
+false
+b) apple pie
+false
+c) chocolate cake
+false
+d) cheesecake
+false
+e) ice cream
+false
+f) peach cobbler
+false
+g) all of the above
+true

@@ -1,0 +1,24 @@
+Question: CSCE240 is the best class ever.
+Correct Answer: true
+
+Question: How many people are cooler than you?
+Answer Choices:
+a) no one - correct
+b) a couple folks - incorrect
+c) about half the population - incorrect
+d) most people - incorrect
+e) everyone - incorrect
+
+Question: What is your favorite color?
+Correct Answer: Blue... No. Yellooooooooooow!
+
+Question: What's your favorite dessert?
+Answer Choices:
+a) sweet potato pie - incorrect
+b) apple pie - incorrect
+c) chocolate cake - incorrect
+d) cheesecake - incorrect
+e) ice cream - incorrect
+f) peach cobbler - incorrect
+g) all of the above - correct
+
